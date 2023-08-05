@@ -1,0 +1,55 @@
+#image{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+#image{
+    width: 1000px;
+    /*width: 100%;*/
+    height: 500px;
+    max-zoom: 1000;
+    border: none;
+    align-content: center;
+}
+
+.menu{
+    list-style: none;
+     font-family:cursive;
+    float:left;
+     top:10px;
+     left:30px;
+     cursor: pointer;
+     color:black;
+    
+ }
+ .menu a{
+     color:black !important;
+ }
+
+ .link{
+    color:crimson;
+    display: inline;
+    padding-top:5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom: 5px;
+}
+   .link:hover{
+    background-color:beige;
+}
+
+.travel_mainDiv
+{
+    border: 1px solid lightgray;
+}
+
+.travel_mainDiv img
+{
+    width: 100%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+    margin: 20px;
+}
